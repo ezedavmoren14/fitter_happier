@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add new YOLOv8 OBB model metrics (#7379)
